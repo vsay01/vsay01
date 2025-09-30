@@ -18,8 +18,7 @@ My name is Vortana Say and I'm a software engineer.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [vsaytech.com](https://www.vsaytech.com/) as well as on [Medium](https://medium.com/@sayvortana.itc).
-<br/>(Note: I apologize for random advertisements in the vsaytech website. It is out of my control to choose what to kind of ads should be shown)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [vsaytech](https://vsaytech.hashnode.dev/) as well as on [Medium](https://medium.com/@sayvortana.itc).
 
 ## :blue_book: Languages
 <p align="center">
